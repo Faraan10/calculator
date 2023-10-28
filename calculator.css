@@ -1,0 +1,309 @@
+body{
+    background-image: url("./calculatorImage.jpg");
+    background-size:cover;
+    height:70vh;
+}
+
+.seconddiv{
+    background-color:#191717;
+   height:300px;
+   width:34%;
+   margin-left:32%;
+   border-radius:10px;
+   margin-top:10%;
+}
+#result{
+    height:2.5rem;
+    width:63.2%;
+    margin-top:20px;
+    margin-left:30px;
+    margin-bottom:20px;
+    margin-right:20px;
+    background-color: #F6FDC3;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+#clearbutton{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#one{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:30px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#two{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#three{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#division{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:6px;
+    margin-left:10px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+
+#four{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:30px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#five{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#six{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#mul{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#seven{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:30px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#eight{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#nine{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#add{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#dot{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:30px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#zero{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#equal{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:9px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
+
+#sub{
+    height:2.5rem;
+    width:18%;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+    margin-left:10px;
+    border:none;
+    background-color:#F6FDC3;
+    color:#0F0F0F;
+    font-size:18px;
+    font-weight:600;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:pointer;
+}
